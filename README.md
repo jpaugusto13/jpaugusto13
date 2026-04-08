@@ -23,49 +23,6 @@
 </p>
 
 ---
-
-## 💻 Outras Tecnologias
-
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass"/>
-</p>
-
----
-
-## ⚙️ DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
-</p>
-
----
-
-## 🛠️ Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255"/>
-  <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC"/>
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpaugusto13&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpaugusto13&theme=dracula&show_icons=true"/>
-</p>
-
----
-
 ## 🌎 Contato
 
 <p>
